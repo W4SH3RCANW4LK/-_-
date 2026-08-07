@@ -82,11 +82,6 @@ see you next login.
 
 </text>
 
-<image
-href="https://raw.githubusercontent.com/W4SH3RCANW4LK/-_-/main/character.png"
-x="-35"
-y="25"
-width="260"/>
 <!-- Stickers -->
 
 <text x="95" y="35" fill="#ff5ecf" font-size="18" transform="rotate(-8 95 35)">
