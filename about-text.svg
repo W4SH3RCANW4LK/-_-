@@ -1,1 +1,126 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
+
+<defs>
+
+<linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#ff3dbf"></stop>
+<stop offset="25%" stop-color="#b14dff"></stop>
+<stop offset="50%" stop-color="#00d9ff"></stop>
+<stop offset="75%" stop-color="#ffe347"></stop>
+<stop offset="100%" stop-color="#ff3dbf"></stop>
+</linearGradient>
+
+<filter id="shadow">
+<feDropShadow dx="0" dy="5" stdDeviation="6" flood-opacity=".35"></feDropShadow>
+</filter>
+
+</defs>
+
+
+<!-- MAIN WINDOW -->
+
+<rect x="18" y="18" width="864" height="394" rx="12" fill="#202330" stroke="#777" stroke-width="2" filter="url(#shadow)"></rect>
+
+
+<!-- TITLE BAR -->
+
+<rect x="18" y="18" width="864" height="42" rx="12" fill="url(#rainbow)"></rect>
+
+<rect x="18" y="45" width="864" height="15" fill="url(#rainbow)"></rect>
+
+
+<text x="45" y="46" font-family="monospace" font-size="17" font-weight="bold" fill="white">
+about_me.exe
+</text>
+
+
+<text x="820" y="46" font-family="Arial" font-size="17" fill="white">
+- □ x
+</text>
+
+
+<!-- TITLE -->
+
+<text x="45" y="98" font-family="monospace" font-size="22" font-weight="bold" fill="url(#rainbow)">
+ABOUT ME!
+</text>
+
+
+<!-- INFORMATION -->
+
+<text x="45" y="132" font-family="monospace" font-size="13" fill="#ff3dbf">
+* I'M VERY COMFORT AND FEEL NICE IF YOU TRYING TO CONTACT, SO DON'T SHY ^_^
+</text>
+
+
+<text x="45" y="164" font-family="monospace" font-size="13" fill="#b14dff">
+* I'M NOT THE TYPE TO INITIATE CONVERSATIONS, HOPE U COULD TAKE THE LEAD
+</text>
+
+
+<text x="45" y="196" font-family="monospace" font-size="13" fill="#00d9ff">
+* OFTEN AFK FOR WORK, SO PLEASE WHISPER IF I'M NOT HERE
+</text>
+
+
+<text x="45" y="228" font-family="monospace" font-size="13" fill="#ffe347">
+* FANDOMS: FORSAKEN, REGRET EVATOR, M.E.G, ETC
+</text>
+
+
+<text x="45" y="250" font-family="monospace" font-size="12" fill="#888">
+(I LOVE PHYSICAL GAMES BTW)
+</text>
+
+
+<!-- NOTE -->
+
+<text x="45" y="292" font-family="monospace" font-size="20" font-weight="bold" fill="url(#rainbow)">
+NOTE:
+</text>
+
+
+<text x="45" y="325" font-family="monospace" font-size="13" fill="#b14dff">
+* NOT SUPPORT COPY MY SKIN, IDEAS WITHOUT PERMISSION
+</text>
+
+
+<text x="45" y="348" font-family="monospace" font-size="12" fill="#888">
+(I'LL BLOCK YOU BUD)
+</text>
+
+
+<text x="45" y="380" font-family="monospace" font-size="13" fill="#00d9ff">
+* NOT SUPPORT RACIST, ROLEPLAY, PROSHIP/DARKSHIP, INSECTUOUS
+</text>
+
+
+<!-- DECORATIONS -->
+
+<text x="720" y="105" font-family="Arial" font-size="22" fill="#ffe347">
+*
+</text>
+
+
+<text x="760" y="140" font-family="Arial" font-size="16" fill="#00d9ff">
++
+</text>
+
+
+<text x="735" y="175" font-family="Arial" font-size="20" fill="#ff3dbf">
+&lt;3
+</text>
+
+
+<text x="770" y="210" font-family="monospace" font-size="14" fill="#b14dff">
+xoxo
+</text>
+
+
+<text x="750" y="375" font-family="monospace" font-size="14" fill="#ff3dbf">
+rawr!
+</text>
+
+
+</svg>
