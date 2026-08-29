@@ -1,44 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="70" viewBox="0 0 700 70">
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="70" viewBox="0 0 460 70">
 
 <defs>
-  <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
-    <stop offset="0%" stop-color="#ff0040"></stop>
-    <stop offset="16%" stop-color="#ff7b00"></stop>
-    <stop offset="33%" stop-color="#ffee00"></stop>
-    <stop offset="50%" stop-color="#00ff6a"></stop>
-    <stop offset="66%" stop-color="#00d9ff"></stop>
-    <stop offset="83%" stop-color="#6a00ff"></stop>
-    <stop offset="100%" stop-color="#ff00d4"></stop>
-  </linearGradient>
+<linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#ff0040"></stop>
+<stop offset="20%" stop-color="#ff7b00"></stop>
+<stop offset="40%" stop-color="#ffee00"></stop>
+<stop offset="60%" stop-color="#00d9ff"></stop>
+<stop offset="80%" stop-color="#6a00ff"></stop>
+<stop offset="100%" stop-color="#ff00d4"></stop>
+</linearGradient>
 </defs>
 
-<rect width="700" height="70" fill="transparent"></rect>
+<text x="15" y="45" font-size="28" font-family="Arial" fill="url(#rainbow)">▶</text>
 
-<!-- centered music bar -->
+<text x="48" y="45" font-size="18" font-family="Arial" fill="white">•</text>
 
-<text x="245" y="45" font-size="28" font-family="Segoe UI Symbol, Arial, sans-serif" fill="url(#rainbow)">▶</text>
+<text x="72" y="45" font-size="24" font-family="monospace" fill="url(#rainbow)">ılıılıılılılıılııılı</text>
 
-<text x="278" y="45" font-size="18" font-family="Arial" fill="white">•</text>
-
-<text x="305" y="45" font-size="24" font-family="Consolas, monospace" fill="url(#rainbow)">
-ılıılıılılılıılııılı
-</text>
-
-<rect x="380" y="23" width="3" height="24" fill="url(#rainbow)">
-  <animate attributeName="height" values="12;30;18;34;12" dur="0.6s" repeatCount="indefinite"></animate>
-  <animate attributeName="y" values="29;20;26;18;29" dur="0.6s" repeatCount="indefinite"></animate>
+<rect x="300" y="23" width="3" height="24" fill="url(#rainbow)">
+<animate attributeName="height" values="12;30;18;34;12" dur="0.6s" repeatCount="indefinite"></animate>
+<animate attributeName="y" values="29;20;26;18;29" dur="0.6s" repeatCount="indefinite"></animate>
 </rect>
 
-<rect x="390" y="23" width="3" height="24" fill="url(#rainbow)">
-  <animate attributeName="height" values="30;12;34;16;30" dur="0.7s" repeatCount="indefinite"></animate>
-  <animate attributeName="y" values="20;29;18;27;20" dur="0.7s" repeatCount="indefinite"></animate>
+<rect x="310" y="23" width="3" height="24" fill="url(#rainbow)">
+<animate attributeName="height" values="30;12;34;16;30" dur="0.7s" repeatCount="indefinite"></animate>
+<animate attributeName="y" values="20;29;18;27;20" dur="0.7s" repeatCount="indefinite"></animate>
 </rect>
 
-<rect x="400" y="23" width="3" height="24" fill="url(#rainbow)">
-  <animate attributeName="height" values="16;28;10;34;16" dur="0.5s" repeatCount="indefinite"></animate>
-  <animate attributeName="y" values="27;21;30;18;27" dur="0.5s" repeatCount="indefinite"></animate>
+<rect x="320" y="23" width="3" height="24" fill="url(#rainbow)">
+<animate attributeName="height" values="16;28;10;34;16" dur="0.5s" repeatCount="indefinite"></animate>
+<animate attributeName="y" values="27;21;30;18;27" dur="0.5s" repeatCount="indefinite"></animate>
 </rect>
 
-<text x="425" y="45" font-size="24" font-family="Segoe UI Symbol, Arial, sans-serif" fill="url(#rainbow)">0</text>
+<text x="345" y="45" font-size="24" font-family="Arial" fill="url(#rainbow)">0</text>
 
 </svg>
