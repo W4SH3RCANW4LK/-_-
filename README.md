@@ -40,7 +40,7 @@
 <p align="center">
   <img src="./character1.png" width="520">
 <div align="center">
-  <img src="./music.svg" width="990">
+  <img src="./music.svg" width="900">
 </div>
  
 </p>
