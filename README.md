@@ -1,10 +1,15 @@
 <p align="center">
   <img src="./welcome.svg" width="900">
 </p>
-<p align="center"> ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗
+
+<p align="center">
+  ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗
+</p>
+
 <p align="center">
   <img src="./character2.png" width="520">
 </p>
+
 <h3 align="center">✧ 𝟒𝐁𝟎𝐔𝐓 𝐌𝟑!1!1 ✧</h3>
 
 <p align="center">
@@ -12,7 +17,7 @@
 </p>
 
 <p align="center">
-  <i>✮ 𝗜’𝗠 𝗡𝟬𝗧 𝗧𝗛𝟯 𝗧𝗬𝗣𝟯 𝗧𝟬 𝗜𝗡𝗜𝗧𝗜𝟰𝗧𝟯 𝗖𝟬𝗡𝗩𝟯𝗥𝗦𝟰𝗧𝟭𝟬𝗡𝗦, 𝗛𝟬𝗣𝟯 𝗨 𝗖𝟬𝗨𝗟𝗗 𝗧𝟰𝗞𝟯 𝗧𝗛𝟯 𝗟𝟯𝟰𝗗</i>
+  <i>✮ 𝗜’𝗠 𝗡𝟬𝗧 𝗧𝗛𝟯 𝗧𝗬𝗣𝟯 𝗧𝟬 𝗜𝗡𝗜𝗧𝟭𝟰𝗧𝟯 𝗖𝟬𝗡𝗩𝟯𝗥𝗦𝟰𝗧𝟭𝟬𝗡𝗦, 𝗛𝟬𝗣𝟯 𝗨 𝗖𝟬𝗨𝗟𝗗 𝗧𝟰𝗞𝟯 𝗧𝗛𝟯 𝗟𝟯𝟰𝗗</i>
 </p>
 
 <p align="center">
@@ -31,19 +36,21 @@
   ♱ 𝐍𝟎𝐓 𝐒𝐔𝐏𝐏𝟎𝐑𝐓 𝐂𝟎𝐏𝐘 𝐌𝐘 𝐒𝐊𝟏𝐍 / 𝐈𝐃𝟑𝟒𝐒 𝐖𝟏𝐓𝐇𝟎𝐔𝐓 𝐏𝟑𝐑𝐌𝟏𝐒𝐒𝟏𝟎𝐍<br>
   ♱ 𝐍𝟎𝐓 𝐒𝐔𝐏𝐏𝟎𝐑𝐓 𝐑𝟒𝐂𝟏𝐒𝐓, 𝐑𝟎𝐋𝟑𝐏𝐋𝟒𝐘, 𝐏𝐑𝟎𝐒𝐇𝐈𝐏/𝐃𝟒𝐑𝐊𝐒𝐇𝐈𝐏, 𝟏𝐍𝐒𝟑𝐂𝐓𝐔𝟎𝐒
 </p>
-</p>
+
 <!-- ==================== MUSIC ==================== -->
 
 <p align="center">
   <b>♫ NOW PLAYING ♫</b>
 </p>
+
 <p align="center">
   <img src="./character1.png" width="520">
-<div align="center">
-  <img src="./music.svg" width="900">
-</div>
- 
 </p>
+
+<p align="center">
+  <img src="./music.svg" width="700">
+</p>
+
 <p align="center">
   <a href="https://open.spotify.com/track/0SQl3QncTyuWTm48vwS4bK">
     <img src="https://img.shields.io/badge/♫_Psycho_Teddy-Psycho_Teddy-ff3dbf?style=for-the-badge&logo=spotify&logoColor=white">
@@ -52,10 +59,11 @@
 
 <p align="center">
   <sub>━━━━━━━━━━●━━━━━━━━━━</sub><br>
-  <sub>♫  Psycho Teddy  ♡</sub>
+  <sub>♫ Psycho Teddy ♡</sub>
 </p>
 
 <br>
+
 <!-- ==================== FOOTER ==================== -->
 
 <p align="center">
