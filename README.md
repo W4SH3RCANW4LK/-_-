@@ -48,8 +48,9 @@
 </p>
 
 <p align="center">
-  <img src="./music.svg" width="700">
+  <img src="./music2.svg" width="980">
 </p>
+
 
 <p align="center">
   <a href="https://open.spotify.com/track/0SQl3QncTyuWTm48vwS4bK">
