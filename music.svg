@@ -1,20 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="70" viewBox="0 0 700 70">
 
-<defs>
-  <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
-    <stop offset="0%" stop-color="#ff0040"></stop>
-    <stop offset="16%" stop-color="#ff7b00"></stop>
-    <stop offset="33%" stop-color="#ffee00"></stop>
-    <stop offset="50%" stop-color="#00ff6a"></stop>
-    <stop offset="66%" stop-color="#00d9ff"></stop>
-    <stop offset="83%" stop-color="#6a00ff"></stop>
-    <stop offset="100%" stop-color="#ff00d4"></stop>
-  </linearGradient>
-</defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="70" viewBox="0 0 350 70">
 
-<!-- EVERYTHING IS CENTERED AROUND x=350 -->
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0040"></stop>
+      <stop offset="16%" stop-color="#ff7b00"></stop>
+      <stop offset="33%" stop-color="#ffee00"></stop>
+      <stop offset="50%" stop-color="#00ff6a"></stop>
+      <stop offset="66%" stop-color="#00d9ff"></stop>
+      <stop offset="83%" stop-color="#6a00ff"></stop>
+      <stop offset="100%" stop-color="#ff00d4"></stop>
+    </linearGradient>
+  </defs>
 
-<g transform="translate(115 0)">
+  <!-- MUSIC BAR -->
 
   <text x="0" y="45" font-size="28" font-family="Arial" fill="url(#rainbow)">▶</text>
 
@@ -38,7 +37,5 @@
   </rect>
 
   <text x="320" y="45" font-size="24" font-family="Arial" fill="url(#rainbow)">0</text>
-
-</g>
 
 </svg>
